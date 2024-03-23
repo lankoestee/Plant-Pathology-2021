@@ -4,7 +4,7 @@
 
 使用[Swin-Transformer](https://github.com/microsoft/Swin-Transformer) + [Query2Label](https://github.com/SlongLiu/query2labels)的方案解决[Plant Pathology 2021 - FGVC8](https://www.kaggle.com/c/plant-pathology-2021-fgvc8)的叶片分类问题，该方案模型可以被简称为QST。
 
-实现路径以及代码详细解释可见博客[cleversmall](https://cleversmall.com/posts/25ec247c/)
+实现路径以及代码详细解释可见博客[cleversmall](https://cleversmall.com/posts/25ec247c/)。
 
 ## 快速开始
 
