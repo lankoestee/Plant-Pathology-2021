@@ -1,0 +1,9 @@
+torch
+torchvision
+Pillow
+pandas
+tqdm
+scikit-learn
+typing
+argparse
+matplotlib
